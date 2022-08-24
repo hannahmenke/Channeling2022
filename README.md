@@ -5,7 +5,7 @@ The DrawMicromodelsPNAS.ipynb file is a python notebook for drawing the micromod
 
 The original images for model A and B can be found on our [Zenodo archive](https://zenodo.org/record/6993528). 
 
-Example input stacks for the models are here. 
+Example input stacks for the models are on the [GeoChemFoam github](https://github.com/GeoChemFoam/). 
 
 The entire output of the models can be found on our [Zenodo archive](https://zenodo.org/record/6993528). 
 
